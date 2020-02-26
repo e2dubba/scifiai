@@ -16,4 +16,4 @@ Monomyth](images/Heroesjourney.png)
 
 ## Sources 
 
-(The Dead Man's Tale)[https://en.wikisource.org/wiki/Weird_Tales/Volume_1/Issue_1/The_Dead_Man%27s_Tale]
+[The Dead Man's Tale](https://en.wikisource.org/wiki/Weird_Tales/Volume_1/Issue_1/The_Dead_Man%27s_Tale)
